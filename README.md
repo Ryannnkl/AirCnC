@@ -4,7 +4,9 @@
   <b align="center">
     ☕ Code and coffee
   </b>
-
+  <br/>
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Ryannnkl/AirCnC?color=f05a5b&logo=github&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Runs%20with%20Expo-f05a5b?style=for-the-badge&logo=EXPO&labelColor=f3f3f3&logoColor=000">
 </h3>
 
 <br>
