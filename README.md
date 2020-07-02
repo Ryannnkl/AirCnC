@@ -41,7 +41,11 @@
 
 ## Como rodar?
 
-`git clone https://github.com/Ryannnkl/AirCnC.git`
+```bash
+git clone https://github.com/Ryannnkl/AirCnC.git
+
+cd AirCnC
+```
 
 ### <code>Backend</code>
 
