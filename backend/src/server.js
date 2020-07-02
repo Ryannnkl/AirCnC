@@ -12,13 +12,11 @@ const app = express();
 const server = http.Server(app);
 const io = socketio(server);
 
-mongoose.connect(
-  "mongodb+srv://ryann-bd:19735@clusterryann-rhyba.mongodb.net/test?retryWrites=true&w=majority",
-  {
-    useNewUrlParser: true,
-    useUnifiedTopology: true,
-  }
-);
+// Add your mongodb Atlas URI, for connect to data base
+mongoose.connect("", {
+  useNewUrlParser: true,
+  useUnifiedTopology: true,
+});
 
 const connectedUsers = {};
 
